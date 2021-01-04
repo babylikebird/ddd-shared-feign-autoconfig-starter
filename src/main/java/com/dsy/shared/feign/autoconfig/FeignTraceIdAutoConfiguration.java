@@ -1,4 +1,4 @@
-package org.ddd.shared.feign.autoconfig;
+package com.dsy.shared.feign.autoconfig;
 
 import feign.Client;
 import feign.Feign;

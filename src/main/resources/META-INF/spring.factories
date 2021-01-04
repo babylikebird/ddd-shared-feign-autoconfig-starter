@@ -1,2 +1,2 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-org.ddd.shared.feign.autoconfig.FeignTraceIdAutoConfiguration
+com.dsy.shared.feign.autoconfig.FeignTraceIdAutoConfiguration
