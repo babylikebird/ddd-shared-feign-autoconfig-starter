@@ -1,4 +1,4 @@
-package com.dsy.shared.feign.autoconfig;
+package com.dsy.sunshine.feign.autoconfig;
 
 import feign.RequestInterceptor;
 import feign.RequestTemplate;
